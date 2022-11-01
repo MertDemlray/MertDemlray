@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MertDemlray
 - 👀 I’m interested in cyber security and AI
-- 🌱 I’m currently studying in a cyber security hisghscshool
+- 🌱 I’m currently studying in a cyber security highschool
 - 📫 My E-mail ecmd72789009@outlook.con
 
 <!---
